@@ -21,7 +21,7 @@ This project is a beginner-level challenge from Frontend Mentor. It involves cre
 
 ## Links
 - [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-- [Live Site](#) <!-- Add your live site URL here if deployed -->
+- [Live Site](https://qr-code-scanner-lime.vercel.app/) <!-- Add your live site URL here if deployed -->
 
 ## Built With
 - Semantic HTML5 markup
@@ -62,7 +62,7 @@ qr_code_component_soln/
 
 ## Author
 - [Bravin Vulimwa](https://github.com/vulimwa)
-- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/your-username)
+- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/Vulimwa)
 
 ## Acknowledgments
 - [Frontend Mentor](https://www.frontendmentor.io/) for providing the challenge and assets.
